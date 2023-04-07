@@ -1,0 +1,34 @@
+[{
+   "questionIndex":0,
+   "totalQuestions":50,
+   "questionCount":[1],
+   "question":{
+      "text":"At what speed should you test the stopping action of the service brakes?",
+      "answers":[
+         "10 mph",
+         "2 mph",
+         "15 mph",
+         "5 mph"
+      ],
+      "hint":"50 divided by 10.",
+      "correctAnswer": 4,
+      "explanation":"In California, if you are convicted of reckless driving that resulted in injury to someone, you will be fined, sentenced to jail, or both. [Speed Contests, Administrative, California Driver Handbook]."
+   }
+},
+{
+   "questionIndex":1,
+   "totalQuestions":50,
+   "questionCount":[2],
+   "question":{
+      "text":"You must continuously signal your intention to turn for at least _________ before turning.",
+      "answers":[
+         "250 feet",
+         "100 feet",
+         "200 feet",
+         "150 feet"
+      ],
+      "hint":"1000 divided by 10",
+      "correctAnswer": 2,
+      "explanation":"You must continuously signal your intention to turn for at least 100 feet before turning. (Note that at 30 mph, your vehicle will travel 100 feet in just 2.3 seconds.) You may use either your vehicle's turn signals or hand and arm signals. You should signal for a longer distance at higher speeds.]."
+   }
+}]
